@@ -1,6 +1,4 @@
----------------------
 ### WRAPPER CLASS ### 
----------------------
 
 ***
 - This class is mainly used to convert primitive type into class/object type and vide-versa.
